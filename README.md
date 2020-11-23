@@ -11,5 +11,5 @@ Performed the EDA, data processing, and feature engineering using the imposed da
 ## Ongoing
 
 ## Credit
-This notebook is created by @Shitanshu Kusmakar,PhD, a developer and researcher with background in Analytics and Data Scinece. 
+This notebook is created by @Shitanshu Kusmakar, PhD, a developer and researcher with background in Analytics and Data Scinece. 
 Reach out at skusmakar2@gmail.com
